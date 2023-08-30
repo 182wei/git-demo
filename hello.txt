@@ -1,2 +1,2 @@
-git master master
+git master master master
 git hot-fix hot-fix
