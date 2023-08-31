@@ -16,6 +16,7 @@ target/
 *.txt
 hello.xml
 tes.xml
+test.xml
 ### IntelliJ IDEA ###
 .idea
 *.iws
